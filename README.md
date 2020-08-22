@@ -3,7 +3,7 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 [![Gmail Badge](https://img.shields.io/badge/-osein.wtr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:osein.wtr@gmail.com)](mailto:osein.wtr@gmail.com)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=osein.osein)
+
 
 ## ⚡ Technologies
 Talk to me about
@@ -23,3 +23,5 @@ Talk to me about
 - ⚡ Fun fact: Internet users blink less than usual.-->
 
 ![Osein's github stats](https://github-readme-stats.vercel.app/api?username=osein&hide=["issues"]&show_icons=true&theme=dark)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=osein.osein)
