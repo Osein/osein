@@ -2,7 +2,8 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-[![Gmail Badge](https://img.shields.io/badge/-osein.wtr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:osein.wtr@gmail.com)](mailto:osein.wtr@gmail.com) ![visitors](https://visitor-badge.glitch.me/badge?page_id=osein.osein)
+[![Gmail Badge](https://img.shields.io/badge/-osein.wtr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:osein.wtr@gmail.com)](mailto:osein.wtr@gmail.com)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=osein.osein)
 
 ## ⚡ Technologies
 Talk to me about
