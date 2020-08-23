@@ -35,7 +35,7 @@ Talk to me about
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 20 Public Repositories
+> 📜 19 Public Repositories
  > 
 > 🔑 17 Private Repositories 
 
