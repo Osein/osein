@@ -25,19 +25,19 @@ Talk to me about
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.4%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.0%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
 > 🏆 550 Contributions in the Year 2020
  > 
-> 📦 215.5 kB Used in Github's Storage 
+> 📦 126.6 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 20 Public Repositories
  > 
-> 🔑 18 Private Repositories 
+> 🔑 17 Private Repositories 
 
 **I'm an Early 🐤** 
 
@@ -81,11 +81,11 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               7 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-Swift                    7 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-PHP                      6 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
-TSQL                     1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   3.57%
+JavaScript               7 repos             ██████░░░░░░░░░░░░░░░░░░░   25.93% 
+PHP                      6 repos             █████░░░░░░░░░░░░░░░░░░░░   22.22% 
+Swift                    6 repos             █████░░░░░░░░░░░░░░░░░░░░   22.22% 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.41% 
+TSQL                     1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   3.7%
 
 ```
 
