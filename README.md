@@ -22,6 +22,9 @@ Talk to me about
 - 🔔 Subscribe:- [Harsh Kumar Khatri](https://www.youtube.com/channel/UCKNtMU9M559bmXxKoT6YeJw)
 - ⚡ Fun fact: Internet users blink less than usual.-->
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ![Osein's github stats](https://github-readme-stats.vercel.app/api?username=osein&hide=["issues"]&show_icons=true&theme=dark)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=osein.osein)
