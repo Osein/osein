@@ -21,3 +21,4 @@ jobs:
           SHOW_PROFILE_VIEWS: True
           SHOW_COMMIT: True
           SHOW_OS: False
+          SHOW_SHORT_INFO: False
