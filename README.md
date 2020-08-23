@@ -27,18 +27,6 @@ Talk to me about
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-85.8%20million%20lines%20of%20code-blue)
 
-**🐱 My Github Data** 
-
-> 🏆 550 Contributions in the Year 2020
- > 
-> 📦 1.6 MB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 20 Public Repositories
- > 
-> 🔑 19 Private Repositories 
-
 **I'm an Early 🐤** 
 
 ```text
