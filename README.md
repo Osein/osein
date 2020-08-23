@@ -96,7 +96,3 @@ TSQL                     1 repos             ░░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
-
-![Osein's github stats](https://github-readme-stats.vercel.app/api?username=osein&hide=["issues"]&show_icons=true&theme=dark)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=osein.osein)
