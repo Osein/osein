@@ -23,6 +23,78 @@ Talk to me about
 - ⚡ Fun fact: Internet users blink less than usual.-->
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 550 Contributions in the Year 2020
+ > 
+> 📦 1.6 MB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 20 Public Repositories
+ > 
+> 🔑 19 Private Repositories 
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    184 commits    ███████░░░░░░░░░░░░░░░░░░   27.63% 
+🌆 Daytime    284 commits    ██████████░░░░░░░░░░░░░░░   42.64% 
+🌃 Evening    164 commits    ██████░░░░░░░░░░░░░░░░░░░   24.62% 
+🌙 Night      34 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.11%
+
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday       51 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.66% 
+Tuesday      113 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.97% 
+Wednesday    74 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+Thursday     125 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.77% 
+Friday       144 commits    █████░░░░░░░░░░░░░░░░░░░░   21.62% 
+Saturday     102 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.32% 
+Sunday       57 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.56%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Istanbul
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               7 repos             ██████░░░░░░░░░░░░░░░░░░░   24.14% 
+Swift                    7 repos             ██████░░░░░░░░░░░░░░░░░░░   24.14% 
+PHP                      6 repos             █████░░░░░░░░░░░░░░░░░░░░   20.69% 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.9% 
+TSQL                     1 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.45%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://github.com/Osein/Osein/blob/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 ![Osein's github stats](https://github-readme-stats.vercel.app/api?username=osein&hide=["issues"]&show_icons=true&theme=dark)
