@@ -23,7 +23,7 @@ Talk to me about
 - ⚡ Fun fact: Internet users blink less than usual.-->
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.0%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26.1%20million%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -54,11 +54,11 @@ Sunday       65 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Istanbul
 
 💬 Programming Languages: 
-Swift                    3 hrs 54 mins       █████████████████████████   99.76% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24%
+Swift                    2 hrs 20 mins       █████████████████████████   99.59% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.41%
 
 🔥 Editors: 
-Xcode                    3 hrs 55 mins       █████████████████████████   100.0%
+Xcode                    2 hrs 21 mins       █████████████████████████   100.0%
 
 ```
 
