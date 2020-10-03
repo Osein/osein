@@ -52,10 +52,10 @@ Sunday       65 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Istanbul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Git Config               0 secs              █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+PhpStorm                 0 secs              █████████████████████████   100.0%
 
 ```
 
