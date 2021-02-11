@@ -56,14 +56,14 @@ No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in Swift** 
 
 ```text
-JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-PHP                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-Swift                    2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
+Swift                    3 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
+PHP                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
+Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
+TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33%
 
 ```
 
