@@ -26,11 +26,11 @@ Talk to me about
 **I Mostly Code in Swift** 
 
 ```text
-Swift                    4 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-PHP                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
+Swift                    4 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53% 
+PHP                      3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65% 
+JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
+Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
+TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76%
 
 ```
 
