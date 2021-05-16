@@ -23,14 +23,14 @@ Talk to me about
 - ⚡ Fun fact: Internet users blink less than usual.-->
 
 <!--START_SECTION:waka-->
-**I Mostly Code in Swift** 
+**I Mostly Code in PHP** 
 
 ```text
-Swift                    5 repos             ███████░░░░░░░░░░░░░░░░░░   27.78% 
-PHP                      3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-TSQL                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%
+PHP                      3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+Python                   2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+Swift                    2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+TSQL                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
 
 ```
 
