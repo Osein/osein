@@ -26,15 +26,15 @@ Talk to me about
 **I Mostly Code in PHP** 
 
 ```text
-PHP                      3 repos             █████░░░░░░░░░░░░░░░░░░░░   23.08% 
-Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-Swift                    2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-TSQL                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
-JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
+PHP                      3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
+Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+Swift                    2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+Kotlin                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+TSQL                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
 
 ```
 
 
 
- Last Updated on 14/06/2021
+ Last Updated on 15/06/2021
 <!--END_SECTION:waka-->
