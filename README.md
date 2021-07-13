@@ -23,18 +23,18 @@ Talk to me about
 - ⚡ Fun fact: Internet users blink less than usual.-->
 
 <!--START_SECTION:waka-->
-**I Mostly Code in PHP** 
+**I Mostly Code in C++** 
 
 ```text
-PHP                      3 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
-C++                      3 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
-Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-Swift                    2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-Kotlin                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
+C++                      4 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53% 
+PHP                      3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65% 
+Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
+Swift                    2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
+Kotlin                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76%
 
 ```
 
 
 
- Last Updated on 12/07/2021
+ Last Updated on 13/07/2021
 <!--END_SECTION:waka-->
