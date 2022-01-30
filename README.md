@@ -7,13 +7,13 @@
 
 ## ⚡ Technologies
 Talk to me about
-- Front-end development using **HTML,CSS,React,jQuery**
-- Backend development using **Laravel,Custom PHP Framework**
-- Database development using **MariaDB**
-- Desktop application development using **Electron and Flutter**(Still learning)
+- Front-end development using **Cool CSS Tricks and React**
+- Backend development using **Laravel, Custom PHP Framework, NextJS and Go**
+- Database development using **MariaDB and SQLite**
+- Game development using **C++ and DirectX**
 - Mobile application development using **Flutter and Swift**
-- Creating scalable cloud architecture using **AWS Cloud**
-- Solving Data structure and algorithm questions in **Javascript, Swift, Kotlin and Rust**
+- Creating scalable cloud architecture using **AWS Cloud and Custom**
+- Solving Data structure and algorithm questions in **Javascript, Swift, Kotlin and Go**
 
 <!--## Hello World!! 🤔
 - 💬 Ask me about anything an everything.
