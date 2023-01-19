@@ -26,15 +26,15 @@ Talk to me about
 **I Mostly Code in C++** 
 
 ```text
-C++                      6 repos             ██████░░░░░░░░░░░░░░░░░░░   26.09% 
-PHP                      5 repos             █████░░░░░░░░░░░░░░░░░░░░   21.74% 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.7% 
-Kotlin                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.7% 
-Swift                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.7%
+C++                      6 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+PHP                      5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.83% 
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+Kotlin                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+Swift                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
 
 ```
 
 
 
- Last Updated on 18/01/2023 06:16:29 UTC
+ Last Updated on 19/01/2023 06:15:48 UTC
 <!--END_SECTION:waka-->
