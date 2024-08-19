@@ -7,20 +7,13 @@
 
 ## ⚡ Technologies
 Talk to me about
-- Front-end development using **Cool CSS Tricks and React**
-- Backend development using **Laravel, Custom PHP Framework, NextJS and Go**
-- Database development using **MariaDB and SQLite**
+- Front-end development using **React and SolidJS**
+- Backend development using **NestJS and Laravel** or microservices
+- Using **MariaDB, MongoDB and SQLite** as database
 - Game development using **C++ and DirectX**
-- Mobile application development using **Flutter and Swift**
-- Creating scalable cloud architecture using **AWS Cloud and Custom**
-- Solving Data structure and algorithm questions in **Javascript, Swift, Kotlin and Go**
-
-<!--## Hello World!! 🤔
-- 💬 Ask me about anything an everything.
-- 📫 Read my blogs: [Harsh Blog](https://harshblog.xyz)
-- 🎯 Portfolio site: [Portfolio](https://harshkumarkhatri.github.io/Portfolio-Site/index.html)
-- 🔔 Subscribe:- [Harsh Kumar Khatri](https://www.youtube.com/channel/UCKNtMU9M559bmXxKoT6YeJw)
-- ⚡ Fun fact: Internet users blink less than usual.-->
+- Mobile application development using **Swift, Kotlin and Flutter**
+- Creating scalable cloud architecture using **AWS Cloud**
+- Solving Data structure and algorithm questions in **Typescript, Swift, Kotlin and C++**
 
 <!--START_SECTION:waka-->
 **I Mostly Code in C++** 
